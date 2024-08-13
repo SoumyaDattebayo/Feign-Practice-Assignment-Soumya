@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: book-service
+
+author-service:
+  url: http://localhost:8081
